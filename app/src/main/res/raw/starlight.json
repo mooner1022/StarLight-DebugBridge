@@ -1,0 +1,10 @@
+{
+  "id":"StarlightDebugBridge",
+  "name":"Milky Way",
+  "main_class":"com.mooner.starlightdebugbridge.StarlightDebugBridgePlugin",
+  "version":"0.0.1",
+  "api_version":"0.0.1",
+  "authors":["mooner"],
+  "description":"Debug Bridge plugin to communicate with other platforms",
+  "depend":["DummyPlugin"]
+}
